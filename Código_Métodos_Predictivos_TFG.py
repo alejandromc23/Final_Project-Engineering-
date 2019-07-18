@@ -15,7 +15,7 @@ from sklearn import svm
 # In[34]:
 
 
-data=pd.read_excel("/home/alejandro/Escritorio/Datos Académicos ETSEIB/Notas(TFG)_binario.xls")
+data=pd.read_excel("/home/alejandro/Escritorio/Datos Académicos XXXXX/Notas(TFG)_binario.xls")
 
 
 # In[35]:
